@@ -1,0 +1,50 @@
+body{
+	border:3px solid #000000;
+	margin-left:10%;
+	margin-right:10%;
+}
+img{
+	float:right;
+	height:100px;
+	width: 80px;
+	margin-top:-20px;
+	margin-right:70px;
+}
+h1{
+	margin-left:38%;
+}
+p{
+	margin-left:50px;
+}
+hr{
+	width:90%;
+	border:1px solid #000000;
+}
+#k{
+	margin-left:50px;
+}
+.h{
+	margin-left:50px;
+}
+table{
+	margin-right: 5%;
+	margin-left: 90px;
+}
+td{
+	padding: 2%;
+}
+th{
+	padding: 2%;
+}
+
+.a{
+	margin-left:30px;
+}
+ul{
+	margin-left: 70px;
+}
+#s{
+	float:right;
+	margin-right:50px;
+	margin-bottom: 20%;
+}
