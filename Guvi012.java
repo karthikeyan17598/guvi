@@ -15,11 +15,11 @@ public class Guvi012 {
 			n=n/10;
 		}
 		if(temp==c) {
-			System.out.println("palindrome");
+			System.out.println("Yes");
 		}
 		else
 		{
-		System.out.println("not palindrome");
+		System.out.println("No");
 		}
 
 	}
